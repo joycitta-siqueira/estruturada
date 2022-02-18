@@ -32,6 +32,7 @@ git add .
 git commit -m "Adicionado o .gitignore"
 git push origin main
 ```
+Formatação básica de texto no read.me: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ### Biblioteca Math: http://linguagemc.com.br/a-biblioteca-math-h/
 ### Lista de exercícios iniciante: https://www.beecrowd.com.br/judge/pt/problems/index/1
